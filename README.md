@@ -1,2 +1,2 @@
 # LightBox-Megumi
-LightBox 
+LightBox implementsi Flexbox dan mencoba SweetAlert2
